@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    margin: 0% auto;
+    }
+.header {
+    
+    
+    width: 100%;
+    margin: 0% auto;
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+
+
+}
+
+img {
+    display: block;
+    width: 100%;
+    }
+
+.index {
+    
+position: relative;
+width: 100%;
+height: 100%;
+margin: 0% auto;
+background: #FCFCFC;
+mix-blend-mode: exclusion;
+box-shadow: inset 0px 5.625px 5.625px rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+
+
+
