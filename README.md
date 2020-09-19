@@ -1,1 +1,1 @@
-https://AlekKar.github.com/rsschool-cv-html/index.html
+https://AlekKar.github.io/rsschool-cv-html/index.html
